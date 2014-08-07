@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>C31596D3-79E7-40FD-BEF7-F0C620BAC464</string>
+	<key>IDESourceControlProjectName</key>
+	<string>BreakOut</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>EFE8EBE6-B877-4DC5-A4A5-2F96B7972D9C</key>
+		<string>https://github.com/ameriles/breakout.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>BreakOut/BreakOut.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>EFE8EBE6-B877-4DC5-A4A5-2F96B7972D9C</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/ameriles/breakout.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>EFE8EBE6-B877-4DC5-A4A5-2F96B7972D9C</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>EFE8EBE6-B877-4DC5-A4A5-2F96B7972D9C</string>
+			<key>IDESourceControlWCCName</key>
+			<string>breakout</string>
+		</dict>
+	</array>
+</dict>
+</plist>
